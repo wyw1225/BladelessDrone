@@ -9,6 +9,11 @@ The mainstream drones on the market today all use physical blades as propellers.
 Yingwen: Examine the sources and levels of noise for traditional UAVs. Examine the harmness of the noise, especially for drones, to the environment. Research the current solutions people produced to help reduce UVA noise. Make a preliminary sketch of AeroOval.
 Mengmei: Describe the significance of safety in the development of UAVs. Do literature review about mainstream UAV’s propeller’s damage to humans, birds and insects, determine the aspects of drone blades that cause injuries, find correlation between drone speed and injury severity, and propose injury threshold for drone blade lacerations.
 
+### Milestone 2 Due: Oct 24 
+Yingwen: Come up with the design of the AeroOval including utter appearance, weight and material, etc. Draw the 3D rendering model. Simulate AeroOval with CFD simulation. Examine how to use CFD simulations to simulate AeroOval’s working performance and analyze the performance.
+  
+Mengmei: Propose the aerodynamic theory behind the bladeless thrusters of AeroOval. Describes the components of the proposed thruster, such as battery, fan, impeller, impeller shaft and electronic loop valves. Determine the shape, size, and quantity of the Electric Ducted Fan (EDF). List out potential problems that our design may encounter.
+
 ### Milestone 3 Due: Nov 7 
 Yingwen: Design a way to compare the noise and safety between traditional drones and AeroOval. Do the comparison of noise and flying performances between conventional drones and AeroOval through CFD simulation.
 Mengmei: Build prototypes to test and verify the operation of the proposed bladeless UAV in two areas: control systems and hardware/software used. The bladeless UAV is expected to essentially have the same control system as a quadcopter. Such a system shall be capable of controlling the pitch, roll, and yaw of the device. Determine the components for the test platform. Then test our proposed model in terms of aviation time, height, noise level and weight lifting thresholds and modify our model accordingly.
