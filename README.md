@@ -1,6 +1,7 @@
 # AeroOval — An Innovative Bladeless Drone That Minimizes Damage and Noise
 ## Participants
-Yingwen Weng, yingwenw@usc.edu Mengmei Li, mengmeil@usc.edu
+Yingwen Weng, yingwenw@usc.edu 
+Mengmei(Kate) Li, mengmeil@usc.edu
 ## Objective
 The mainstream drones on the market today all use physical blades as propellers. When the propeller on the traditional multi-rotor drones comes into contact with a living creature, it can cause injuries ranging from minor abrasions to severe lacerations. In addition, traditional propellers cut the air when it operates, which causes a lot of noise. We aim to present a new design of UAV that can both minimize damage and noise. Inspired by Dyson bladeless fans, we came up with the idea of applying Dyson's bladeless technology to traditional drones to create a bladeless drone, we call it AeroOval. In our approach to design this innovative and intriguing UAV — AeroOval, we will examine the areas of the bladeless fan’s cross-section geometry, air-flow properties, impellers, motors, ducted fans, power sources, and compare them to conventional quadcopter dynamic modeling. As our methodology, we will study the hazards of drone blades to humans and aerial creatures, the sources and the levels of drone noise, and come up with our model and give the contribution of our design to drone safety and noise reduction.
 
