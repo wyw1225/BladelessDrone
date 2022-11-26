@@ -1,5 +1,5 @@
 # AeroOval — An Innovative Bladeless Drone That Minimizes Damage and Noise 
-CSCI 599 Course Project 
+CSCI 599 Course Project Description
 ## Participants
 Yingwen Weng, yingwenw@usc.edu   
 Mengmei(Kate) Li, mengmeil@usc.edu
