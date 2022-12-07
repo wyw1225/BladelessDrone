@@ -1,0 +1,9 @@
+# family_boco file written by ICEM CFD by x on Tue Nov 22 7:21:14 中国标准时间 2022
+## solver ANSYS Fluent
+"PART_1_1_1"
+"PART_2_2_1"
+"INLET"
+"OUTLET"
+"INTERFACE-1"
+"FLUID-1"
+"FLUID-1" "color" 3385555
