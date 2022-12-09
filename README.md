@@ -19,7 +19,7 @@ The mainstream drones on the market today all use physical blades as propellers.
 
 ### Milestone 3 Due: Nov 7 
 - [ ] Yingwen: Design a way to compare the noise and safety between traditional drones and AeroOval. Do the comparison of noise and flying performances between conventional drones and AeroOval through CFD simulation. 
-- [ ] Mengmei: Build prototypes to test and verify the operation of the proposed bladeless UAV in two areas: control systems and hardware/software used. The bladeless UAV is expected to essentially have the same control system as a quadcopter, which can control  the pitch, roll, and yaw of the device. Determine the components for the test platform.  Then test our proposed model in terms of aviation time, height, noise level and weight lifting thresholds and modify our model accordingly.
+- [ ] Mengmei: Perform aerodynamics and aeroacoustics analysis using CFD technique on three models with different slit width. Simulate conventional UAV noise (individually or in a swarm) in CFD. 
 
 ### Milestone 4 Due: Nov 21 
 - [ ] Yingwen: Examine the valuable data that we're able to retrieve from the simulation, think about our model’s limitations and conclude our research. Compose the final paperwork. 
